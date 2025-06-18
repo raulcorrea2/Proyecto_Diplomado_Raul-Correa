@@ -1,4 +1,5 @@
 MANTENIMIENTO PREDICTIVO DE MOTORES ELÉCTRICOS EN PLANTAS INDUSTRIALES CON MACHINE LEARNING
+
 Desarrollado por: Raul Correa Arce
 
 Objetivo: Desarrollar modelos de mantenimiento predictivo, utilizando algoritmos de Machine Learning como Random Forest, 
